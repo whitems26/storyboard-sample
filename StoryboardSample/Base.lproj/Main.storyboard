@@ -38,7 +38,7 @@
             </objects>
             <point key="canvasLocation" x="941.60000000000002" y="111.99400299850076"/>
         </scene>
-        <!--DetailToSide-->
+        <!--Detail-->
         <scene sceneID="PjN-Ai-kRE">
             <objects>
                 <viewController id="VI3-eC-Zlc" customClass="DetailViewController" customModule="StoryboardSample" customModuleProvider="target" sceneMemberID="viewController">
@@ -65,7 +65,7 @@
                         </subviews>
                         <color key="backgroundColor" red="0.79359870960000001" green="0.96270911609999998" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                     </view>
-                    <navigationItem key="navigationItem" title="DetailToSide" id="Qww-Sc-aWG"/>
+                    <navigationItem key="navigationItem" title="Detail" id="Qww-Sc-aWG"/>
                     <connections>
                         <outlet property="MyUISwitch" destination="As8-UQ-MFz" id="tEs-Bh-Mpo"/>
                         <segue destination="Cfl-qn-usv" kind="show" identifier="DetailToSide" id="EyK-0S-Lu4"/>
