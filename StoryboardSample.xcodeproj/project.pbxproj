@@ -15,6 +15,7 @@
 		E04EA5481F3D92D8003F0329 /* SideViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E04EA5471F3D92D8003F0329 /* SideViewController.swift */; };
 		E04EA54A1F3D93BD003F0329 /* MakeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E04EA5491F3D93BD003F0329 /* MakeViewController.swift */; };
 		E04EA54C1F3D9787003F0329 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E04EA54B1F3D9787003F0329 /* DetailViewController.swift */; };
+		E04EA54E1F3D9D99003F0329 /* EnterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E04EA54D1F3D9D99003F0329 /* EnterViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		E04EA5471F3D92D8003F0329 /* SideViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SideViewController.swift; sourceTree = "<group>"; };
 		E04EA5491F3D93BD003F0329 /* MakeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MakeViewController.swift; sourceTree = "<group>"; };
 		E04EA54B1F3D9787003F0329 /* DetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		E04EA54D1F3D9D99003F0329 /* EnterViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EnterViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 				E04EA5471F3D92D8003F0329 /* SideViewController.swift */,
 				E04EA5491F3D93BD003F0329 /* MakeViewController.swift */,
 				E04EA54B1F3D9787003F0329 /* DetailViewController.swift */,
+				E04EA54D1F3D9D99003F0329 /* EnterViewController.swift */,
 			);
 			path = StoryboardSample;
 			sourceTree = "<group>";
@@ -151,6 +154,7 @@
 				E04EA54C1F3D9787003F0329 /* DetailViewController.swift in Sources */,
 				E04EA5321F3D84F9003F0329 /* AppDelegate.swift in Sources */,
 				E04EA5481F3D92D8003F0329 /* SideViewController.swift in Sources */,
+				E04EA54E1F3D9D99003F0329 /* EnterViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
