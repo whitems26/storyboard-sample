@@ -1,5 +1,5 @@
 //
-//  DetailViewController.swift
+//  MakeViewController.swift
 //  StoryboardSample
 //
 //  Created by ktds 19 on 2017. 8. 11..
@@ -8,18 +8,8 @@
 
 import UIKit
 
-class DetailViewController: UIViewController {
+class MakeViewController: UIViewController {
 
-    @IBOutlet weak var MyUISwitch: UISwitch!
-    @IBAction func nextScene(_ sender: Any) {
-        
-        if MyUISwitch.isOn{
-            self.performSegue(withIdentifier: "DetailToSide", sender: self)
-        }
-        else{
-             self.performSegue(withIdentifier: "DetailToMake", sender: self)
-        }
-    }
     override func viewDidLoad() {
         super.viewDidLoad()
 
